@@ -78,6 +78,7 @@
   .text-light400_light500 {
     @apply text-light-400 dark:text-light-500 !important;
   }
+
   .text-dark400_light500 {
     @apply text-dark-400 dark:text-light-500;
   }
@@ -175,7 +176,7 @@
   }
 
   .placeholder {
-    @apply placeholder:text-light-400 dark:placeholder:text-light-;
+    @apply placeholder:text-light-400 dark:placeholder:text-light-500;
   }
 
   .invert-colors {
