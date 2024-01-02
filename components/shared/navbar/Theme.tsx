@@ -1,12 +1,10 @@
 "use client";
 
 import {
-  MenubarShortcut,
   Menubar,
   MenubarContent,
   MenubarItem,
   MenubarMenu,
-  MenubarSeparator,
   MenubarTrigger,
 } from "@/components/ui/menubar";
 import { themes } from "@/constants";
